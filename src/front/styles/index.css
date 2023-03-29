@@ -1,3 +1,23 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+body {
+    background-color: #F2F2F2;
+    color:#0D0D0D;
+}
+.navbar{
+    background-color: #F2F2F2;
+    color:#0D0D0D;
+}
+
+.nav-link {
+    color:#0D0D0D !important;
+}
+
+
+
+/* Color Theme Swatches in Hex */
+.A-digital-heaven-for-perfume-enthusiasts-1-hex { color: #68458C; }
+.A-digital-heaven-for-perfume-enthusiasts-2-hex { color: #D99311; }
+.A-digital-heaven-for-perfume-enthusiasts-3-hex { color: #BF9288; }
+.A-digital-heaven-for-perfume-enthusiasts-4-hex { color: #F2F2F2; }
+.A-digital-heaven-for-perfume-enthusiasts-5-hex { color: #0D0D0D; }
+
+
